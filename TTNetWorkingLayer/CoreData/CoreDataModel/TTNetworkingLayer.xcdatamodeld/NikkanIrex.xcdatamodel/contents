@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.99" systemVersion="18F132" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Company" representedClassName="Company" syncable="YES">
+        <attribute name="acceptNo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fgPublish" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isFavourite" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="keymain" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="unitExhibition" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Company" positionX="-63" positionY="-18" width="128" height="148"/>
+    </elements>
+</model>
